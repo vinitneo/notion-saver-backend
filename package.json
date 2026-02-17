@@ -1,0 +1,9 @@
+{
+  "name": "notion-saver-backend",
+  "version": "1.0.0",
+  "description": "Serverless backend for Notion Saver Chrome Extension",
+  "engines": {
+    "node": "18.x"
+  },
+  "dependencies": {}
+}
